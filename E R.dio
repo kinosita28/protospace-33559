@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e" modified="2021-01-12T03:31:26.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.51.1 Chrome/83.0.4103.122 Electron/9.3.3 Safari/537.36" version="13.10.0" etag="fJqOZ7EzDD79VVrp6HhN" type="embed">
+    <diagram id="Kf36CIWL1jchLTO6ONoi" name="ページ1">
+        <mxGraphModel dx="279" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://tech-master.s3.amazonaws.com/uploads/curriculums//bfa083231a620f9c5406ea31be29b322.png;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="370" width="520" height="269" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
